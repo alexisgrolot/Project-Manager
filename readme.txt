@@ -1,39 +1,40 @@
 === Project Manager ===
 Contributors: alexisgrolot
-Tags: gestion de projet, planification de projet, suivi de projet
-Requires at least:
-Tested up to:
-Stable tag:
-Requires PHP:
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: project management, project planning, project monitoring
+Requires at least: 5.1
+Tested up to: 6.1
+Stable tag: trunk
+Requires PHP: 7.4
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-"Project Manager" est un plugin de gestion de projet pour WordPress qui facilite la planification, la gestion et le suivi des projets. Il offre une vue d'ensemble complète pour une gestion de projet efficace.
+"Project Manager" is a project management plugin for WordPress that makes it easy to plan, manage and track projects. It provides a complete overview for efficient project management.
 
 == Description ==
 
-"Project Manager" est un plugin de gestion de projet pour WordPress conçu pour aider les équipes à planifier, gérer et suivre leurs projets de manière efficace. Il offre une vue d'ensemble complète des projets en cours, des tâches assignées, des membres de l'équipe et des dates d'échéance. Vous pouvez également affecter des tâches à des membres de l'équipe, suivre l'avancement des tâches et communiquer avec les membres de l'équipe directement à partir de l'interface du plugin. Il vous permet également de classer vos projets par catégories pour une meilleure organisation. Project Manager est facile à utiliser et convient à tous les types d'entreprises et de projets. Il est conçu pour améliorer la collaboration et la communication entre les membres de l'équipe pour une gestion de projet plus efficace.
+"Project Manager" is a project management plugin for WordPress designed to help teams plan, manage and track their projects efficiently. It provides a complete overview of current projects, assigned tasks, team members and due dates. You can also assign tasks to team members, track task progress and communicate with team members directly from the plugin interface. It also allows you to categorise your projects for better organisation. Project Manager is easy to use and suitable for all types of businesses and projects. It is designed to improve collaboration and communication between team members for more effective project management.
 
 == Frequently Asked Questions ==
 
-= Comment puis-je installer ce plugin sur mon site WordPress? =
+= How do I install this plugin on my WordPress site? =
 
-Pour installer ce plugin, vous pouvez le télécharger depuis le repository de plugin de WordPress ou le transférer sur votre site via FTP, une fois que vous l'avez téléchargé, vous pouvez l'installer en allant dans votre tableau de bord WordPress->Plugins->Ajouter un nouveau->Téléverser le plugin, une fois que vous avez téléversé le plugin, vous pouvez l'activer.
+To install this plugin you can download it from the WordPress plugin repository or upload it to your site via FTP, once you have downloaded it you can install it by going to your WordPress dashboard->Plugins->Add new->Upload plugin, once you have uploaded the plugin you can activate it.
 
-= Comment puis-je créer et gérer des projets avec ce plugin? =
+= How can I create and manage projects with this plugin? =
 
 Une fois que vous avez activé le plugin, vous pouvez créer des projets en allant dans votre tableau de bord WordPress->Projects->Ajouter un nouveau projet, vous pouvez ensuite remplir les informations relatives au projet, telles que le nom, la description, les membres de l'équipe, les dates d'échéance, etc.
 
-= Comment puis-je assigner des tâches à des membres de l'équipe? =
+= How do I assign tasks to team members? =
 
-Vous pouvez assigner des tâches à des membres de l'équipe en allant dans votre tableau de bord WordPress->Projects->Vue d'ensemble du projet->Gérer les tâches, vous pourrez ensuite assigner des tâches à des membres de l'équipe en utilisant les options disponibles.
+You can assign tasks to team members by going to your WordPress dashboard->Projects->Project Overview->Manage Tasks, you can then assign tasks to team members using the available options.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Screenshots are stored in the /assets directory.
-2. This is the second screen shot
+1. This screenshot shows the project management interface of our "Project Manager" plugin. This interface allows you to see all current projects at a glance, with information such as project name, due date, percentage of completion, team members, etc. It is possible to filter projects by category, add a new project, and perform actions on existing projects.
+2. This screenshot shows the task management interface of our "Project Manager" plugin. This interface allows you to see all tasks assigned to team members, with information such as task name, deadline, assigned team member, percentage of completion, etc. It is possible to filter tasks by project, add a new task, and perform actions on existing tasks.
 
 == Changelog ==
+
 
 
 == Upgrade Notice ==
