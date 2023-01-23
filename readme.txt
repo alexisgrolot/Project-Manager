@@ -22,7 +22,7 @@ To install this plugin you can download it from the WordPress plugin repository 
 
 = How can I create and manage projects with this plugin? =
 
-Une fois que vous avez activé le plugin, vous pouvez créer des projets en allant dans votre tableau de bord WordPress->Projects->Ajouter un nouveau projet, vous pouvez ensuite remplir les informations relatives au projet, telles que le nom, la description, les membres de l'équipe, les dates d'échéance, etc.
+Once you have activated the plugin, you can create projects by going to your WordPress dashboard->Projects->Add a new project, you can then fill in the project information, such as name, description, team members, due dates, etc.
 
 = How do I assign tasks to team members? =
 
@@ -38,4 +38,3 @@ You can assign tasks to team members by going to your WordPress dashboard->Proje
 
 
 == Upgrade Notice ==
-
