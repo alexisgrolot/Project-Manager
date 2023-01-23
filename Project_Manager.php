@@ -2,11 +2,11 @@
 /*
 Plugin Name: Project Manager
 Plugin URI: 
-Description: "Project Manager" est un plugin de gestion de projet pour WordPress qui facilite la planification, la gestion et le suivi des projets. Il offre une vue d'ensemble complète, des tâches assignées, des membres de l'équipe et des dates d'échéance pour une gestion de projet efficace.
+Description: "Project Manager" is a project management plugin for WordPress that makes it easy to plan, manage and track projects. It provides a complete overview, assigned tasks, team members and due dates for efficient project management.
 Version: 1.0
 Author: Alexis Grolot
-Author URI: https://profiles.wordpress.org/alexisgrolot/
-License: GPLv2 or later
+Author URI: https://wp-pro.epizy.com/
+License: GPLv3
 */
 
 class Project_Manager {
@@ -157,21 +157,19 @@ class Project_Manager {
     function add_project_list_column_data( $column, $post_id ) {
         switch ( $column ) {
             case 'project_start_date':
-                echo get_post_meta( $post_id, 'project_start_date', true );
+                echo esc_html(get_post_meta( $post_id, 'project_start_date', true ));
                 break;
             case 'project_end_date':
-                echo get_post_meta( $post_id, 'project_end_date', true );
+                echo esc_html(get_post_meta( $post_id, 'project_end_date', true ));
                 break;
             case 'project_status':
-                echo get_post_meta( $post_id, 'project_status', true );
+                echo esc_html(get_post_meta( $post_id, 'project_status', true ));
                 break;
             case 'project_members':
-                echo get_post_meta( $post_id, 'project_members', true );
+                echo esc_html(get_post_meta( $post_id, 'project_members', true ));
                 break;
         }
     }
 }
 
 new Project_Manager();
-
-
