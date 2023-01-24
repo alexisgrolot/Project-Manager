@@ -3,7 +3,7 @@ Contributors: alexisgrolot
 Tags: project management, project planning, project monitoring
 Requires at least: 5.1
 Tested up to: 6.1
-Stable tag: trunk
+Stable tag: 1.0
 Requires PHP: 7.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
