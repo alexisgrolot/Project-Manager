@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Project Manager
-Plugin URI: 
+Plugin URI: https://wordpress.org/plugins/project-manager
 Description: "Project Manager" is a project management plugin for WordPress that makes it easy to plan, manage and track projects. It provides a complete overview, assigned tasks, team members and due dates for efficient project management.
 Version: 1.0
 Author: Alexis Grolot
