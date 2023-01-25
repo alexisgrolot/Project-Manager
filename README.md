@@ -1,2 +1,2 @@
 # Project-Manager
-"Project Manager" est un plugin de gestion de projet pour WordPress qui facilite la planification, la gestion et le suivi des projets. Il offre une vue d'ensemble complète, des tâches assignées, des membres de l'équipe et des dates d'échéance pour une gestion de projet efficace.
+"Project Manager" is a project management plugin for WordPress that makes it easy to plan, manage and track projects. It provides a complete overview, assigned tasks, team members and due dates for efficient project management.
